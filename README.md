@@ -32,10 +32,9 @@ const aboutMe = {
 <a href="mailto:ronaldo.tunque@pucp.edu.pe"><img alt="Email" src="https://img.shields.io/badge/Email-ronaldo.tunque@pucp.edu.pe-blue?style=flat&logo=gmail"></a>
 </p>
 
-
+<!--
 ![Kurito's github stats](https://github-readme-stats.vercel.app/api?username=SfrRonaldo)
 
-<!--
 **SfrRonaldo/SfrRonaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
