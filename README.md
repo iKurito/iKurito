@@ -27,7 +27,7 @@ const aboutMe = {
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ronaldotunquecahui" target="_blank"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-@kurito-blue?style=flat&logo=gitlab"></a>
+<a href="https://www.gitlab.com/kurito" target="_blank"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-@kurito-blue?style=flat&logo=gitlab"></a>
 <a href="https://www.linkedin.com/in/ronaldotunquecahui" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ronaldotunque-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:ronaldo.tunque@pucp.edu.pe"><img alt="Email" src="https://img.shields.io/badge/Email-ronaldo.tunque@pucp.edu.pe-blue?style=flat&logo=gmail"></a>
 </p>
