@@ -24,7 +24,7 @@ const aboutMe = {
 };
 ```
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 😄 You can find me </h3>
 
 <p align="center">
 <a href="https://gitlab.com/Kurito" target="_blank"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-@Kurito-blue?style=flat&logo=gitlab"></a>
