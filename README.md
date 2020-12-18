@@ -8,6 +8,9 @@ const kurito = {
 }
 ```
 
+You cand find me :
+- [LinkedIn]{https://www.linkedin.com/in/ronaldotunquecahui/}
+
 <!--
 **SfrRonaldo/SfrRonaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
