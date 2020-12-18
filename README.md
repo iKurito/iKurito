@@ -13,7 +13,7 @@ const aboutMe = {
       },
       backEnd: {
          java: ["Spring"],
-         js: ["Node", "Express"]
+         js: ["Node", "Express"],
          python: ["Flask"]
       },
       databases: ["MongoDB", "MySQL", "SQLServer"],
