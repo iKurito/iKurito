@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+```js
+const kurito = {
+  pronouns: "he" | "him"
+  code: [Javascript, HTML, CSS]
+  tools: [React, Android Studio]
+}
+```
+
 <!--
 **SfrRonaldo/SfrRonaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
