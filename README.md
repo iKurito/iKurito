@@ -1,5 +1,5 @@
-### Hi there 👋
-<p><em>I'm Ronaldo, a bachelor student at <a href="https://www.pucp.edu.pe">Pontifical Catholic University of Peru</a>, majoring in Computer Science. 😊</br>
+### Hi there, I'm Ronaldo 👋
+<p><em>A bachelor student at <a href="https://www.pucp.edu.pe">Pontifical Catholic University of Peru</a>, majoring in Computer Science. 😊</br>
 </em></p>
 
 ```javascript
