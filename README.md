@@ -1,11 +1,26 @@
 ### Hi there 👋
-
+<p><em>I'm Ronaldo, a bachelor student at <a href="https://pucp.edu.pe">Pontifical Catholic University of Peru</a>, majoring in Computer Science. 😊</br>
+</em></p>
 ```js
-const kurito = {
-  pronouns: "he" | "him"
-  code: [Javascript, HTML, CSS]
-  tools: [React, Android Studio]
-}
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, HTML, CSS, Python, Java, CSharp, Kotlin],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Vue"],
+         css: ["Material-UI", "Bootstrap"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node", "Express"]
+         python: ["Flask"]
+      },
+      databases: ["MongoDB", "MySQL", "SQLServer"],
+      mobile: ["Android"]
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
+};
 ```
 
 You cand find me :
