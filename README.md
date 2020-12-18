@@ -32,6 +32,7 @@ const aboutMe = {
 <a href="mailto:ronaldo.tunque@pucp.edu.pe"><img alt="Email" src="https://img.shields.io/badge/Email-ronaldo.tunque@pucp.edu.pe-blue?style=flat&logo=gmail"></a>
 </p>
 
+
 ![Kurito's github stats](https://github-readme-stats.vercel.app/api?username=SfrRonaldo)
 
 <!--
