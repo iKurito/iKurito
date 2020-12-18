@@ -11,7 +11,7 @@ const kurito = {
 You cand find me :
 - [LinkedIn](https://www.linkedin.com/in/ronaldotunquecahui/)
 
-[![Kurito's github stats](https://github-raedme-stats.vercel.app/api?userna=SfrRonaldo)]
+[![SfrRonaldo's github stats](https://github-readme-stats.vercel.app/api?userna=SfrRonaldo)]
 
 <!--
 **SfrRonaldo/SfrRonaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
