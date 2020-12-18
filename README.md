@@ -1,7 +1,8 @@
 ### Hi there 👋
-<p><em>I'm Ronaldo, a bachelor student at <a href="https://pucp.edu.pe">Pontifical Catholic University of Peru</a>, majoring in Computer Science. 😊</br>
+<p><em>I'm Ronaldo, a bachelor student at <a href="https://www.pucp.edu.pe">Pontifical Catholic University of Peru</a>, majoring in Computer Science. 😊</br>
 </em></p>
-```js
+
+```javascript
 const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, HTML, CSS, Python, Java, CSharp, Kotlin],
