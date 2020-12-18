@@ -27,8 +27,8 @@ const aboutMe = {
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ronaldotunquecahui" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:ronaldo.tunque@pucp.edu.pe"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/ronaldotunquecahui" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ronaldotunque-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:ronaldo.tunque@pucp.edu.pe"><img alt="Email" src="https://img.shields.io/badge/Email-ronaldo.tunque@pucp.edu.pe-blue?style=flat&logo=gmail"></a>
 </p>
 
 ![Kurito's github stats](https://github-readme-stats.vercel.app/api?username=SfrRonaldo)
