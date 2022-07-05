@@ -5,7 +5,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Python, Java, CSharp, Kotlin],
+   code: [Javascript, HTML, CSS, Python, Java, CSharp, Dart, Kotlin],
    technologies: {
       frontEnd: {
          js: ["React", "Vue"],
@@ -14,12 +14,12 @@ const aboutMe = {
       backEnd: {
          java: ["Spring"],
          js: ["Node", "Express"],
-         python: ["Flask"]
+         python: ["Flask, FastAPI"]
       },
       databases: ["MongoDB", "MySQL", "SQLServer"],
-      mobile: ["Android"]
+      mobile: ["Android", "Flutter"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
+   currentOccupation: ["Open for job opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
