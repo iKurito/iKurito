@@ -2,30 +2,6 @@
 <p><em>A bachelor student at <a href="https://www.pucp.edu.pe">Pontifical Catholic University of Peru</a>, majoring in Computer Science. 😊</br>
 </em></p>
 
-```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Python, Java, CSharp, Dart, Kotlin],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Vue"],
-         css: ["Material-UI", "Tailwind CSS", "Bootstrap"]
-      },
-      backEnd: {
-         java: ["Spring"],
-         js: ["Node", "Express"],
-         python: ["Flask, FastAPI"]
-      },
-      databases: ["MongoDB", "MySQL", "SQLServer"],
-      mobile: ["Android", "Flutter"]
-   },
-   currentOccupation: ["Open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
-};
-```
-
-<h3> 😄 You can find me </h3>
-
 ## Acerca de mi 🧑‍💻
 Ingeniero informático apasionado por el desarrollo de software. Destaco por mi habilidad en la creación de interfaces web atractivas y funcionales, servicios RESTful, aplicaciones en la nube utilizando AWS y por trabajar eficazmente en equipos multidisciplinarios. Comunicativo y adaptable a nuevas tecnologías. Busco oportunidades estimulantes para crecer profesionalmente y aportar en un entorno colaborativo. Mi enfoque se centra en el diseño intuitivo, la usabilidad y la entrega de soluciones de calidad. Apasionado por la innovación y el éxito empresarial, ofrezco una mentalidad proactiva y orientada al logro en cada proyecto.
 
@@ -59,6 +35,29 @@ Ingeniero informático apasionado por el desarrollo de software. Destaco por mi 
    <a href="mailto:ronaldo.tunque@pucp.edu.pe"><img alt="Email" src="https://img.shields.io/badge/Email-ronaldo.tunque@pucp.edu.pe-blue?style=flat&logo=gmail"></a>
 </p>
 <!--
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, HTML, CSS, Python, Java, CSharp, Dart, Kotlin],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Vue"],
+         css: ["Material-UI", "Tailwind CSS", "Bootstrap"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node", "Express"],
+         python: ["Flask, FastAPI"]
+      },
+      databases: ["MongoDB", "MySQL", "SQLServer"],
+      mobile: ["Android", "Flutter"]
+   },
+   currentOccupation: ["Open for job opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
+};
+```
+
+<h3> 😄 You can find me </h3>
 <a href="https://john-portfolio-eight.vercel.app"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website"> </img> </a>
 
 
