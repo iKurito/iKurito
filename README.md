@@ -1,4 +1,4 @@
-### Hi there, I'm Ronaldo 👋
+## Hi there, I'm Ronaldo 👋
 <p><em>A bachelor student at <a href="https://www.pucp.edu.pe">Pontifical Catholic University of Peru</a>, majoring in Computer Science. 😊</br>
 </em></p>
 
