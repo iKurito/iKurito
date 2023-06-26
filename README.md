@@ -26,16 +26,8 @@ const aboutMe = {
 
 <h3> 😄 You can find me </h3>
 
-<p align="center">
-<a href="https://gitlab.com/Kurito" target="_blank"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-@Kurito-blue?style=flat&logo=gitlab"></a>
-<a href="https://www.linkedin.com/in/ronaldotunquecahui" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ronaldotunque-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:ronaldo.tunque@pucp.edu.pe"><img alt="Email" src="https://img.shields.io/badge/Email-ronaldo.tunque@pucp.edu.pe-blue?style=flat&logo=gmail"></a>
-</p>
-
 ## Acerca de mi 🧑‍💻
-Hola, soy un desarrollador Full-Stack basado en México. Me encanta trabajar con tecnologías web y mézclelos con 3D para hacer páginas con un diferente sabor y sensación.
-Además, he trabajado con Back-End tecnologías, como .NET, ASP.NET y SQL Server, y con servicios en la Nube como Azure y Azure DevOps. 
-Estoy abierto a trabajar con nuevas tecnologías para resolver nuevos desafíos y obtener nuevas oportunidades
+Ingeniero informático apasionado por el desarrollo de software. Destaco por mi habilidad en la creación de interfaces web atractivas y funcionales, servicios RESTful, aplicaciones en la nube utilizando AWS y por trabajar eficazmente en equipos multidisciplinarios. Comunicativo y adaptable a nuevas tecnologías. Busco oportunidades estimulantes para crecer profesionalmente y aportar en un entorno colaborativo. Mi enfoque se centra en el diseño intuitivo, la usabilidad y la entrega de soluciones de calidad. Apasionado por la innovación y el éxito empresarial, ofrezco una mentalidad proactiva y orientada al logro en cada proyecto.
 
 ## Tecnologias
 ### Front-End
@@ -60,9 +52,12 @@ Estoy abierto a trabajar con nuevas tecnologías para resolver nuevos desafíos 
 
 
 ## Dale uno ojo a mis redes sociales 🤝​
-<a href="https://www.linkedin.com/in/ronaldotunquecahui/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mi perfil de LinkedIn"/></a>
-<a href="https://github.com/iKurito"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github_profile"></img></a>
-<a href="https://gitlab.com/Kurito" target="_blank"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-@Kurito-blue?style=flat&logo=gitlab"></a>
+<h3> 😄 You can find me </h3>
+<p align="center">
+   <a href="https://gitlab.com/Kurito" target="_blank"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-@Kurito-blue?style=flat&logo=gitlab"></a>
+   <a href="https://www.linkedin.com/in/ronaldotunquecahui" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ronaldotunque-blue?style=flat&logo=linkedin"></a>
+   <a href="mailto:ronaldo.tunque@pucp.edu.pe"><img alt="Email" src="https://img.shields.io/badge/Email-ronaldo.tunque@pucp.edu.pe-blue?style=flat&logo=gmail"></a>
+</p>
 <!--
 <a href="https://john-portfolio-eight.vercel.app"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website"> </img> </a>
 
