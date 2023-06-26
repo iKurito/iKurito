@@ -69,7 +69,7 @@ Informatic engineer passionate about software development. I stand out for my ab
    <a href="mailto:ronaldo.tunque@pucp.edu.pe"><img alt="Email" src="https://img.shields.io/badge/Email-ronaldo.tunque@pucp.edu.pe-blue?style=flat&logo=gmail"></a>
 </p>
 
-![Kurito's github stats](https://github-readme-stats.vercel.app/api?username=SfrRonaldo)
+![Kurito's github stats](https://github-readme-stats.vercel.app/api?username=iKurito)
 <!--
 https://ileriayo.github.io/markdown-badges/
 ```javascript
