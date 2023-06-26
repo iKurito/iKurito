@@ -1,7 +1,7 @@
 ## Hi there, I'm Ronaldo 👋
 A bachelor student at <a href="https://www.pucp.edu.pe">Pontifical Catholic University of Peru</a>, majoring in Computer Science. 😊
 
-## Acerca de mi 🧑‍💻
+## About me 🧑‍💻
 <p align="justify">
 Informatic engineer passionate about software development. I stand out for my ability to create attractive and functional web interfaces, RESTful services, cloud applications using AWS and for working effectively in multidisciplinary teams. Communicative and adaptable to new technologies. I look for stimulating opportunities to grow professionally and contribute in a collaborative environment. My focus is on intuitive design, usability, and quality solution delivery. Passionate about innovation and business success, I bring a proactive and achievement-oriented mindset to every project.
 </p>
