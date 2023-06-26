@@ -1,11 +1,12 @@
 ## Hi there, I'm Ronaldo 👋
-<p><em>A bachelor student at <a href="https://www.pucp.edu.pe">Pontifical Catholic University of Peru</a>, majoring in Computer Science. 😊</br>
-</em></p>
+A bachelor student at <a href="https://www.pucp.edu.pe">Pontifical Catholic University of Peru</a>, majoring in Computer Science. 😊
 
 ## Acerca de mi 🧑‍💻
-Ingeniero informático apasionado por el desarrollo de software. Destaco por mi habilidad en la creación de interfaces web atractivas y funcionales, servicios RESTful, aplicaciones en la nube utilizando AWS y por trabajar eficazmente en equipos multidisciplinarios. Comunicativo y adaptable a nuevas tecnologías. Busco oportunidades estimulantes para crecer profesionalmente y aportar en un entorno colaborativo. Mi enfoque se centra en el diseño intuitivo, la usabilidad y la entrega de soluciones de calidad. Apasionado por la innovación y el éxito empresarial, ofrezco una mentalidad proactiva y orientada al logro en cada proyecto.
+<p style="text-align: justify;">
+Informatic engineer passionate about software development. I stand out for my ability to create attractive and functional web interfaces, RESTful services, cloud applications using AWS and for working effectively in multidisciplinary teams. Communicative and adaptable to new technologies. I look for stimulating opportunities to grow professionally and contribute in a collaborative environment. My focus is on intuitive design, usability, and quality solution delivery. Passionate about innovation and business success, I bring a proactive and achievement-oriented mindset to every project.
+</p>
 
-## Tecnologias
+## Technologies
 ### Front-End
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js"></img>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts"></img>
@@ -23,12 +24,9 @@ Ingeniero informático apasionado por el desarrollo de software. Destaco por mi 
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="sql"></img>
 
 ### Design 
-<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender"> </img>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"></img>
 
-
-## Dale uno ojo a mis redes sociales 🤝​
-<h3> 😄 You can find me </h3>
+## 😄 You can find me 🤝​
 <p align="center">
    <a href="https://gitlab.com/Kurito" target="_blank"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-@Kurito-blue?style=flat&logo=gitlab"></a>
    <a href="https://www.linkedin.com/in/ronaldotunquecahui" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ronaldotunque-blue?style=flat&logo=linkedin"></a>
