@@ -70,7 +70,7 @@ I focus on intuitive design, usability, and delivering high-quality solutions. P
    <a href="https://gitlab.com/Kurito" target="_blank"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-@Kurito-blue?style=flat&logo=gitlab"></a>
    <a href="https://www.linkedin.com/in/ronaldotunquecahui" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ronaldotunquecahui-blue?style=flat&logo=linkedin"></a>
    <a href="mailto:ronaldo.tunque@pucp.edu.pe"><img alt="Email" src="https://img.shields.io/badge/Email-ronaldo.tunque@pucp.edu.pe-blue?style=flat&logo=gmail"></a>
-   <a href="https://ronaldotunque.com"><img src="https://img.shields.io/badge/Website-kurito.dev-blue?style=flat&logo=About.me" alt="website"> </img></a>
+   <a href="https://ronaldotunque.com"><img src="https://img.shields.io/badge/Website-ronaldotunque.com-blue?style=flat&logo=About.me" alt="website"> </img></a>
 </p>
 
 <!--
